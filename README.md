@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/MegaDev-Americo-Ortega">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjc3MW52NWJkcXl0NTU1NnJhc2J6YTJycW9sYTV1bnVwN2k0MWF6OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif" alt="GitHub Star 2023"/></a>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjc3MW52NWJkcXl0NTU1NnJhc2J6YTJycW9sYTV1bnVwN2k0MWF6OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif" alt="Full Stack Python Developer"/></a>
   
 </p>
 - 🔭 I’m currently working on [ViaJar](https://github.com/ElizabethNL/ViajAR)
